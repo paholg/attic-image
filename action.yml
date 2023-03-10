@@ -1,0 +1,5 @@
+name: 'Attic Build'
+description: 'Run attic during a build'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
